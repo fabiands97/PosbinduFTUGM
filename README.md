@@ -1,4 +1,4 @@
-# vue-admin
+# Posbindu PHSS FT UGM (VueJS Single Web App)
 
 ## Project setup
 ```
