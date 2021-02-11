@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "admin-lte": "^2.4.10",
-    "apexcharts": "^3.8.6",
+    "apexcharts": "^3.24.0",
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.20",
     "chart.js": "^2.8.0",
