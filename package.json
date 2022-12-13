@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.20",
     "chart.js": "^2.8.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "icheck": "^1.0.2",
     "vue": "^2.6.10",
     "vue-chartjs": "^3.4.2",
